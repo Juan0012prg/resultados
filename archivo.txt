@@ -1,0 +1,5 @@
+ <TD>5</TD>
+            <td class="child-6">Morados</td>
+            <td>2</td>
+            <td>1</td>
+            <td>2-1</td>
